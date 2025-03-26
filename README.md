@@ -14,7 +14,7 @@ Welcome to the **Linux Bash Reference** project. This repository is a guide to l
 
 ## Repository Highlights
 
-- **Hands-On Examples**: Real-world demonstrations of command-line tools and scripting, which can be found in my [SAP HANA Linux Repo](https://github.com/JThomas404/linux-bash-repo).
+- **Hands-On Examples**: Real-world demonstrations of command-line tools and scripting, which can be found in my [SAP HANA Linux Repo](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio).
 - **Structured Learning Path**: Covers foundational knowledge, scripting techniques, and advanced tips for optimisation.
 
 ## Purpose of This Project
