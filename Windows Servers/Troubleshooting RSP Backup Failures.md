@@ -54,7 +54,7 @@ Right-click on **SYSTEMDB@HDB**, select **Backup and Recovery > Back Up System D
 
 Double-click on **Backup** under **SYSTEMDB@HDB** and select the **Backup Catalog** tab. Right-click the most recent backup and select **Delete Older Backups**.
 
-![Backup Catalog](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/_Backup_Catalog_2.png)
+![Backup Catalog](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/Backup_Catalog_2.png)
 
 ### Step 7: Confirm Deletion
 
