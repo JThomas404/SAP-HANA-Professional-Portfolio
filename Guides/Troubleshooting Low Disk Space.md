@@ -23,7 +23,7 @@ SAP/HANA on Linux has data spread out over several partitions. Refer to the belo
 - **/hana/backup** mountpoint: Associated with RSP backups.  
 - **/usr/sap** mountpoint: The install directory for SAP, containing program binaries, config, log files, etc.  
 
-You will generally receive disk space alerts against the **/hana/shared** volume and **/usr/sap**. Use this guide to troubleshoot disk space and escalate to the SAP Infrastructure Support team as necessary.
+You will generally receive disk space alerts against the **/hana/shared** volume and **/usr/sap**.
 
 ---
 
@@ -132,7 +132,7 @@ du -sh *
 
 ---
 
-## ⚠️ Important Note
+## ❗ Important Note
 
 Use extreme caution when deleting files/folders on Linux, especially as root.  
 There is **no confirmation prompt**—deleted data is gone immediately.
