@@ -28,7 +28,7 @@ The HANA Monitoring script is used to collect metrics from HANA for viewing in N
 
 #### Step 2: Upload the HANA Monitoring package
 
-- Upload the zip file to the customer's TS server and copy it to the `/opt` directory on the HANA server using [WinSCP – Transferring Files to Linux](HANA-server-using-WinSCP-(Transferring-Files-to-Linux-with-WinSCP).md). For instructions, refer to this guide.
+- Upload the zip file to the customer's TS server and copy it to the `/opt` directory on the HANA server using [WinSCP – Transferring Files to Linux](./HANA%20server%20using%20WinSCP%20(Transferring%20Files%20to%20Linux%20with%20WinSCP).md). For instructions, refer to this guide.
 
 ---
 
