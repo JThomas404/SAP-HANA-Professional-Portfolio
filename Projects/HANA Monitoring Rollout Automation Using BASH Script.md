@@ -24,7 +24,7 @@ The HANA Monitoring script is used to collect metrics from HANA for viewing in N
 
 - Download the script.
 
-[hana_monitoring.zip](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/your-folder-path/hana_monitoring.zip)
+[hana_monitoring.zip](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/hana_monitoring.zip)
 
 #### Step 2: Upload the HANA Monitoring package
 
