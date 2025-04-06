@@ -2,12 +2,12 @@
 
 **Table of Contents**
 
-1. [Configure the Monitoring Script](#1-configure-the-monitoring-script)  
-2. [Update the Configuration File](#2-update-the-configuration-file)  
-3. [Share the Log Output Directory](#3-share-the-log-output-directory)  
-4. [Create Scheduled Tasks](#4-create-scheduled-tasks)  
-5. [Configure the N-Central Probe](#5-configure-the-n-central-probe)  
-6. [Configure N-Central Monitoring](#6-configure-n-central-monitoring)  
+1. [Configure the Monitoring Script](#configure-the-monitoring-script)  
+2. [Update the Configuration File](#update-the-configuration-file)  
+3. [Share the Log Output Directory](#share-the-log-output-directory)  
+4. [Create Scheduled Tasks](#create-scheduled-tasks)  
+5. [Configure the N-Central Probe](#configure-the-n-central-probe)  
+6. [Configure N-Central Monitoring](#configure-n-central-monitoring)  
 
 ---
 
