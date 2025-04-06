@@ -7,7 +7,7 @@
 
 ## Overview
 
-There is a known bug in the SAP EDF backend service on HANA servers that causes excessive memory usage. Use this guide to identify the issue and refer to the [Troubleshooting High Memory Usage](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/Guides/Troubleshooting%20High%20Memory%20Usage.md) for more info.
+There is a known bug in the SAP EDF backend service on HANA servers that causes excessive memory usage. Use this guide to identify the issue and refer to the [Troubleshooting High Memory Usage](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/Guides/Troubleshooting%20High%20Memory%20Usage.md) guide for more information.
 
 ## Troubleshooting Steps
 
