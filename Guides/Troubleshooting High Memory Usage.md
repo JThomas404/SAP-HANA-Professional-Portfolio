@@ -79,7 +79,7 @@ HANA is a high-performance in-memory database management system, meaning all inf
     free -hl
     ```
 
-- **Analyze the output of `free`:**
+- **Analyse the output of `free`:**
 The output shows total memory usage, but remember that buffers can be freed by the OS to handle additional requests.
     
 ![free_command_output](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/free_command_output.png)

@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. Overview  
-2. Steps to Complete
+1. [Overview](#overview)  
+2. [Steps to Complete](#steps-to-complete)
 
 ---
 
