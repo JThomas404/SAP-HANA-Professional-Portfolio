@@ -20,7 +20,7 @@ This guide outlines how to trigger a manual RSP backup. Creating manual backups 
 1. Log into the **Remote Support Platform (RSP)**.  
 2. Navigate to **Configuration** > **Backup Management**.
 
-![Access Backup Management](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/Access_Backup_Management.png?raw=true)
+![Access Backup Management](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/Access_Backup_Management.png)
 
 ---
 
@@ -29,7 +29,7 @@ This guide outlines how to trigger a manual RSP backup. Creating manual backups 
 1. Go to **Backup Strategy**.  
 2. Choose **Instance Backup: Daily**.
 
-![Select Backup Strategy](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/Select_Backup_Strategy.png?raw=true)
+![Select Backup Strategy](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/Select_Backup_Strategy.png)
 
 ---
 
@@ -38,7 +38,7 @@ This guide outlines how to trigger a manual RSP backup. Creating manual backups 
 1. Ensure the Backup Strategy settings are configured as needed.  
 2. Click **Trigger Instance Backup Now**.
 
-![Trigger Backup Now](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/Trigger_Backup_Now.png?raw=true)
+![Trigger Backup Now](https://github.com/JThomas404/SAP-HANA-Professional-Portfolio/blob/main/images/Trigger_Backup_Now.png)
 
 ---
 
