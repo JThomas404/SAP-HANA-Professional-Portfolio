@@ -45,7 +45,7 @@ mv _instanceBackup.log _instanceBackup.log.old && mv _instanceBackup.pid _instan
 
 ### Step 4: Trigger a Manual Backup
 
-1. Trigger a manual instance backup in RSP and verify that the backup completes without error. See the [Trigger Manual RSP Backups](./Windows-Servers/Trigger-Manual-RSP-Backups.md) KBA for guidance.
+1. Trigger a manual instance backup in RSP and verify that the backup completes without error. See the [Trigger Manual RSP Backups](./Windows%20Servers/Trigger%20Manual%20RSP%20Backups.md) KBA for guidance.
 
 ---
 
