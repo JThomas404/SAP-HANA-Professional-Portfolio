@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-1. Overview
-2. Example Scenario
-3. Troubleshooting Steps
-4. Useful Commands
-5. Checking for Out-of-Memory Events
-6. Troubleshooting High Memory Usage on Lemongrass Servers
-7. Summary
+1. [Overview](#overview)
+2. [Example Scenario](#example-scenario)
+3. [Troubleshooting Steps](#troubleshooting-steps)
+4. [Useful Commands](#useful-commands)
+5. [Checking for Out-of-Memory Events](#checking-for-out-of-memory-events)
+6. [Troubleshooting High Memory Usage on Lemongrass Servers](#troubleshooting-high-memory-usage-on-lemongrass-servers)
+7. [Summary](#summary)
 
 ---
 
