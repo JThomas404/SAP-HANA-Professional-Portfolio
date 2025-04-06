@@ -14,7 +14,7 @@
 
 SAP/HANA on Linux has data spread out over several partitions. Refer to the below disk space checks from N-sight RMM:
 
-![Disk Space Overview](images/disk_space_check.png)
+![Disk Space Overview](../../images/disk_space_check.png)
 
 - **/** mountpoint: The root partition for the Linux OS (similar to the C: drive on Windows).  
 - **/hana/data** mountpoint: Contains in-memory data. When save points or snapshots are created, or a delta merge operation is performed, data is written from memory to this volume.  
