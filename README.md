@@ -9,11 +9,14 @@ These resources were originally developed during my time at **SEIDOR Networks** 
 ## 📂 Contents
 
 | Category        | Document                                                                 |
-|----------------|--------------------------------------------------------------------------|
+|-----------------|--------------------------------------------------------------------------|
 | 📘 Guides       | [Adding Tenant and System DBs to HANA Studio](./Guides/Adding%20Tenant%20and%20System%20DBs%20to%20HANA%20Studio.md)  |
-|                | [Mounting Shared Folder](./Guides/Mounting%20Shared%20Folder.md)         |
-| 🛠 Projects      | [HANA Monitoring Rollout Project](./Projects/HANA%20Monitoring%20Rollout%20Project.md) |
-| 📚 KB Articles  | [SAP FP Upgrade Process](./Implementation/SAP%20FP%20Upgrade%20Process.md)              |
+|                 | [Troubleshooting Low Disk Space](./Guides/Troubleshooting%20Low%20Disk%20Space.md) |
+|                 | [Mounting Shared Folders](./Guides/Mounting%20Shared%20Folders.md)       |
+| 🛠 Projects      | [HANA Monitoring Rollout Automation Using BASH Script](./Projects/HANA%20Monitoring%20Rollout%20Automation%20Using%20BASH%20Script.md) |
+|                 | [HANA Server using WinSCP (Transferring Files to Linux with WinSCP)](./Projects/HANA%20server%20using%20WinSCP%20(Transferring%20Files%20to%20Linux%20with%20WinSCP).md) |
+| 📚 KB Articles  | [HANA Monitoring - Manual Implementation](./Implementation/HANA%20Monitoring%20-%20Manual%20Implementation.md) |
+|                 | [Troubleshooting RSP Backup Failures](./Windows%20Servers/Troubleshooting%20RSP%20Backup%20Failures.md) |
 
 ---
 
