@@ -1,3 +1,5 @@
 SAP-HANA-Professional-Portfolio/
 .gitmodules
 newGHRepo.sh
+.DS_Store
+.history
